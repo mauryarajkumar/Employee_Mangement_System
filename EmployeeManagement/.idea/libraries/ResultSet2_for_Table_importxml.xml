@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ResultSet2 for Table importxml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ResultSet2 for Table importxml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ResultSet2 for Table importxml.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
